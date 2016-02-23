@@ -1,0 +1,16 @@
+body{
+    font-family: 'Sacramento', cursive;
+    background: url('https://scontent-lax3-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/11054268_703259249800775_7546169918294974936_n.jpg?oh=a965d712a1169be3f32260a7291c1505&oe=575718DF') no-repeat;
+    background-size: cover;
+}
+
+.linear{ 
+    list-style:none;
+    text-align: center;
+}
+
+.linear li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 150px;
+}
